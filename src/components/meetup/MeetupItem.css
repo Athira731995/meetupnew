@@ -1,0 +1,23 @@
+
+img{
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+}
+.content{
+    text-align: center;
+    text-transform: uppercase;
+
+}
+.para{
+    text-align: justify;
+    margin-bottom: 2px;
+}
+.btn{
+    background-color: rgb(11, 11, 34);
+    margin-top: -52px;
+    float: right;
+    border-color: brown;
+    height: 34px;
+    color: white;
+}

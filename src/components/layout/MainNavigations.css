@@ -1,0 +1,10 @@
+header{
+    background-color: brown;
+    width: 100%;
+    height:auto;
+    display: flex;
+}
+li{
+    display: inline;
+    margin:2em
+}
